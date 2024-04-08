@@ -1,4 +1,5 @@
 # CryptoClustering
+Reed Erickson
 In this challenge, I uses my knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 I completed this assignment using in class examples as well as past knowledge of Python features.
 This python file includes the following sections with completed code:
